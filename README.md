@@ -11,15 +11,9 @@ Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng 
 # 📊 Công nghệ sữ dụng trong dự án:
 
 
-![download](https://github.com/user-attachments/assets/baa9e105-983d-4bf0-9946-e36d1d601f13)
+![download](https://github.com/user-attachments/assets/baa9e105-983d-4bf0-9946-e36d1d601f13) ![download](https://github.com/user-attachments/assets/b9af0c55-ddcd-4e79-b8c9-2f7f4e4f716c)![download](https://github.com/user-attachments/assets/e2628f8d-51d7-430d-8941-01e0b0e5c185)
 
-![download](https://github.com/user-attachments/assets/b9af0c55-ddcd-4e79-b8c9-2f7f4e4f716c)
 
-![download](https://github.com/user-attachments/assets/e2628f8d-51d7-430d-8941-01e0b0e5c185)
-
-+Java
-+Android studio
-+Sqlite
 
 ## 🏆 GitHub Trophies![java-original](https://github.com/user-attachments/assets/52750f79-0a46-473c-baed-84338d62f7e3)
 
