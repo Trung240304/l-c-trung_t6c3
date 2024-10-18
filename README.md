@@ -1,4 +1,4 @@
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/28f460a2-3b51-4403-8b4c-23cf8a1f2430)![download](https://github.com/user-attachments/assets/fa246174-a978-415f-a912-bb419c6f58f1)
+![download](https://github.com/user-attachments/assets/fa246174-a978-415f-a912-bb419c6f58f1)
 # 💫 Giới thiệu:
 
 Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng quán cà phê, gồm các thành viên: Lê Đức Trung, Võ Minh Quang, và Phạm Khôi Nguyên. Mục tiêu của chúng ta là tạo ra một ứng dụng giúp quản lý quán cà phê một cách hiệu quả và thân thiện với người dùng. Ứng dụng này sẽ bao gồm các chức năng như quản lý nhân viên, sản phẩm, doanh thu và quy trình thanh toán cho khách hàng. Với sự hợp tác và nỗ lực của từng thành viên, chúng ta hy vọng sẽ mang đến một sản phẩm chất lượng phục vụ cho người dùng tốt nhất.
@@ -14,6 +14,7 @@ Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng 
 # Thông tin khác:
 
 Dowload file excel :[Buoi03_Nhom04_T6_Ca3.xlsx](https://github.com/user-attachments/files/17430319/Buoi03_Nhom04_T6_Ca3.xlsx)
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/28f460a2-3b51-4403-8b4c-23cf8a1f2430)
 
 
 
