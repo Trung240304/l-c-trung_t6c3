@@ -14,7 +14,7 @@ Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng 
 # Thông tin khác:
 
 Dowload file excel :[Buoi03_Nhom04_T6_Ca3.xlsx](https://github.com/user-attachments/files/17430319/Buoi03_Nhom04_T6_Ca3.xlsx)
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/28f460a2-3b51-4403-8b4c-23cf8a1f2430)
+Dự án :https://github.com/Trung240304/l-c-trung_t6c3
 
 
 
