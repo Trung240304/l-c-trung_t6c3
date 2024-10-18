@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/fa246174-a978-415f-a912-bb419c6f58f1)
+[download](https://github.com/user-attachments/assets/fa246174-a978-415f-a912-bb419c6f58f1)
 # 💫 Giới thiệu:
 
 Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng quán cà phê, gồm các thành viên: Lê Đức Trung, Võ Minh Quang, và Phạm Khôi Nguyên. Mục tiêu của chúng ta là tạo ra một ứng dụng giúp quản lý quán cà phê một cách hiệu quả và thân thiện với người dùng. Ứng dụng này sẽ bao gồm các chức năng như quản lý nhân viên, sản phẩm, doanh thu và quy trình thanh toán cho khách hàng. Với sự hợp tác và nỗ lực của từng thành viên, chúng ta hy vọng sẽ mang đến một sản phẩm chất lượng phục vụ cho người dùng tốt nhất.
