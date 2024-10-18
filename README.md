@@ -15,18 +15,4 @@ Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng 
 
 
 
-## 🏆 GitHub Trophies![java-original](https://github.com/user-attachments/assets/52750f79-0a46-473c-baed-84338d62f7e3)
 
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/c42f542f-fbcd-47f9-9f78-96dca1fce810)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=l-c-trung_t6c3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=l-c-trung_t6c3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
