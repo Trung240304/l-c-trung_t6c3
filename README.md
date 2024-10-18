@@ -13,8 +13,8 @@ Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng 
 ![download](https://github.com/user-attachments/assets/baa9e105-983d-4bf0-9946-e36d1d601f13) ![download](https://github.com/user-attachments/assets/b9af0c55-ddcd-4e79-b8c9-2f7f4e4f716c)![download](https://github.com/user-attachments/assets/e2628f8d-51d7-430d-8941-01e0b0e5c185)
 # Thông tin khác:
 
-Dowload file excel :[Buoi03_Nhom04_T6_Ca3.xlsx](https://github.com/user-attachments/files/17430319/Buoi03_Nhom04_T6_Ca3.xlsx)
-Dự án :https://github.com/Trung240304/l-c-trung_t6c3
++Dowload file excel :[Buoi03_Nhom04_T6_Ca3.xlsx](https://github.com/user-attachments/files/17430319/Buoi03_Nhom04_T6_Ca3.xlsx)
++Dự án :https://github.com/Trung240304/l-c-trung_t6c3
 
 
 
