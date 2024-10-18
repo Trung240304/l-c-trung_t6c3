@@ -1,8 +1,8 @@
-# 💫 About Me:
-lXin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng quán cà phê, gồm các thành viên: Lê Đức Trung, Võ Minh Quang, và Phạm Khôi Nguyên. Mục tiêu của chúng ta là tạo ra một ứng dụng giúp quản lý quán cà phê một cách hiệu quả và thân thiện với người dùng. Ứng dụng này sẽ bao gồm các chức năng như quản lý nhân viên, sản phẩm, doanh thu và quy trình thanh toán cho khách hàng. Với sự hợp tác và nỗ lực của từng thành viên, chúng ta hy vọng sẽ mang đến một sản phẩm chất lượng phục vụ cho người dùng tốt nhất.<br>
+# 💫 Giới thiệu:
+Xin chào tất cả các bạn! Chúng ta là nhóm phát triển ứng dụng quán cà phê, gồm các thành viên: Lê Đức Trung, Võ Minh Quang, và Phạm Khôi Nguyên. Mục tiêu của chúng ta là tạo ra một ứng dụng giúp quản lý quán cà phê một cách hiệu quả và thân thiện với người dùng. Ứng dụng này sẽ bao gồm các chức năng như quản lý nhân viên, sản phẩm, doanh thu và quy trình thanh toán cho khách hàng. Với sự hợp tác và nỗ lực của từng thành viên, chúng ta hy vọng sẽ mang đến một sản phẩm chất lượng phục vụ cho người dùng tốt nhất.<br>
 
 
-## 🌐 Socials:
+## 🌐 Liên hệ với tôi:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100036363046389&locale=vi_VN) 
 
 # 💻 Tech Stack:
